@@ -1,10 +1,8 @@
-# TicTacToe
+# TicTacToe Championship Analysis 💻
 
 ## 🚀 DESCRIPTION (ENGLISH)
 
 This project analyses the results of a global Tic Tac Toe championship using real data obtained from a REST API. The goal is to determine the true winner among thousands of recorded matches.
-
----
 
 ### 🔍 What does this programme do?
 
@@ -45,8 +43,6 @@ When the programme is run, it shows:
 # TicTacToe – Análisis del campeonato mundial de Tic Tac Toe
 
 Este proyecto analiza los resultados de un campeonato mundial de Tic Tac Toe (Tres en raya) usando datos reales obtenidos desde una API REST. El objetivo es encontrar al verdadero ganador entre miles de partidas registradas.
-
----
 
 ### 🔍 ¿Qué hace este programa?
 
